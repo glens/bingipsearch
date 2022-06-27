@@ -1,11 +1,11 @@
 # Bing IP Search
 
-Searches bing.com for alternative hostnames at a particular host/ip.
-
+CLI tool to find alternative hostnames via Bing IP search
+Author: Glen Scott (glen at glenscott.net, @memoryresident)
 
 Usage:
 
 ```
-➜ bingipsearch.py target-host.com
+bingipsearch.py ip.address.or.hostname
 
 ```
